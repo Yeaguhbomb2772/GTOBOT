@@ -177,7 +177,7 @@
         ]
     },
     "938254555316117544": {
-        "points": 420,
+        "points": 433,
         "elo": 8,
         "team": [
             {
@@ -2502,6 +2502,48 @@
                 "animes_from": 3,
                 "mangas_from": 3,
                 "favorites": 65663
+            },
+            {
+                "name": [
+                    "Gunther",
+                    "Schultz"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/15/215957.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Dirk",
+                    "Reiss"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/12/464868.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 0
+            },
+            {
+                "name": [
+                    "Revo"
+                ],
+                "img": "https://cdn.discordapp.com/attachments/942907758397763694/1217728366325796874/f3op35srz8o71.png?ex=660514ea&is=65f29fea&hm=3696737662a9d15d1c2498706481c836d4a89858da47b6e71980d611c4652fd8&",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Onyankopon"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/6/434579.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 67
             }
         ]
     },

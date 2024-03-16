@@ -5,12 +5,14 @@ Created 6/02/2021 MM/DD/YYYY
 """
 import discord
 from discord.ext import commands
-import json
+import os
+from dotenv import load_dotenv
 
-with open('config.json') as f:
-    json_data = json.load(f)
-    PREFIX = json_data['PREFIX']
-    TOKEN = json_data['TOKEN']
+load_dotenv()
+
+
+PREFIX = "!!"
+TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 
 bot = commands.Bot(command_prefix=PREFIX, intents=discord.Intents.all())
 
