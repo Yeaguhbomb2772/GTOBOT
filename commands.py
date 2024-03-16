@@ -98,59 +98,55 @@ class Commands(commands.Cog, name="commands"):
             await ctx.send("Starting up another game!")
         await asyncio.sleep(1)
 
-        if self.song_index == len(self.song_data) - 1:
+        if self.song_index >= len(self.song_data):
             self.song_index = 0
             random.shuffle(self.song_data)
             await ctx.send("All unique songs have been played, shuffling the list now")
 
-        def check_anime_song(m):
-            anime_name = m.content.lower()
-            return anime_name == music_to_guess.lower() and m.channel == ctx.channel
+        music_to_guess = "Unknown Song"
 
         while True:
             try:
-                music_to_guess = self.song_data[self.song_index][0]
-                music_url = self.song_data[self.song_index][1]
-
-                player = await YTDLSource.from_url(music_url, loop=self.bot.loop,
-                                                   stream=True)
-                try:
-                    if ctx.voice_client is not None:
-                        ctx.voice_client.play(player, after=lambda x: print('Player error: %s' % x) if x else None)
-                except Exception as e:
-                    print("error playing song:", e)
-                    self.song_index += 1
-                    continue
-                await ctx.send(
-                    "Try guessing the soundtrack by typing in this channel (anyone can try)! You got 25 seconds.")
-
-                user_msg = await self.bot.wait_for('message', check=check_anime_song, timeout=25.0)
-                add_points(str(user_msg.author.id), 1)
-                await ctx.send("Nice, you guessed the correct OST ({})!".format(
-                    music_to_guess.title()))
-
-                self.song_index += 1
-
-                if self.song_index == len(self.song_data) - 1:
+                if self.song_index >= len(self.song_data):
                     self.song_index = 0
                     random.shuffle(self.song_data)
                     await ctx.send("All unique songs have been played, shuffling the list now")
 
-                music_to_guess = self.song_data[self.song_index][0]
-                music_url = self.song_data[self.song_index][1]
+                music_to_guess, music_url = self.song_data[self.song_index]
 
-                ctx.voice_client.stop()
-                await asyncio.sleep(1)
+                player = await YTDLSource.from_url(music_url, loop=self.bot.loop, stream=True)
+                try:
+                    if ctx.voice_client is not None:
+                        ctx.voice_client.play(player, after=lambda x: print('Player error: %s' % x) if x else None)
+                except Exception as e:
+                    print("Error playing song:", e)
+                    self.song_index += 1
+                    continue
+
+                await ctx.send(
+                    "Try guessing the soundtrack by typing in this channel (anyone can try)! You got 25 seconds.")
+
+                def check_anime_song(m):
+                    return m.content.lower() == music_to_guess.lower() and m.channel == ctx.channel
+
+                user_msg = await self.bot.wait_for('message', check=check_anime_song, timeout=25.0)
+                add_points(str(user_msg.author.id), 1)
+                await ctx.send(f"Nice, you guessed the correct OST ({music_to_guess.title()})!")
+
+                self.song_index += 1
+
             except Exception as e:
                 print(e)
                 if "Video unavailable" in str(e) or "Private video" in str(e):
-                    await ctx.send(
-                        f"{music_to_guess} has a broken link ({self.song_data[self.song_index][1]}), pls fix!")
+                    await ctx.send(f"{music_to_guess} has a broken link ({self.song_data[self.song_index][1]}), please fix!")
                 else:
-                    await ctx.send(
-                        "Sorry, you took to long to guess do !gto to start again, the song was {}.".format(
-                            music_to_guess.title()))
+                    await ctx.send(f"Sorry, you took too long to guess. Do !gto to start again. The song was {music_to_guess.title()}.")
                 self.song_index += 1
+
+                if self.song_index >= len(self.song_data):
+                    self.song_index = 0
+                    random.shuffle(self.song_data)
+
                 ctx.voice_client.stop()
 
     @commands.command(name="playsong", pass_context=True)
