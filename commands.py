@@ -107,6 +107,9 @@ class Commands(commands.Cog, name="commands"):
 
         while True:
             try:
+                if ctx.voice_client.is_playing():
+                    ctx.voice_client.stop()
+
                 if self.song_index >= len(self.song_data):
                     self.song_index = 0
                     random.shuffle(self.song_data)
