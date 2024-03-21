@@ -177,7 +177,7 @@
         ]
     },
     "938254555316117544": {
-        "points": 433,
+        "points": 1158,
         "elo": 8,
         "team": [
             {
@@ -2544,11 +2544,615 @@
                 "animes_from": 3,
                 "mangas_from": 2,
                 "favorites": 67
+            },
+            {
+                "name": [
+                    "King",
+                    "Fritz"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/10/466763.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Sannes",
+                    "Djel"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/7/360457.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 0
+            },
+            {
+                "name": [
+                    "Marlene"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/6/370147.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Lisa",
+                    "Braus"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/14/449405.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 1
+            },
+            {
+                "name": [
+                    "Hitch",
+                    "Dreyse"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/10/220845.jpg?s=c9ddd5ac17856992bc93823b0cdb5ad2",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 194
+            },
+            {
+                "name": [
+                    "Mikasa's",
+                    "Father"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/11/206391.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 8
+            },
+            {
+                "name": [
+                    "Hannah",
+                    "Diament"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/13/206445.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 3
+            },
+            {
+                "name": [
+                    "Jurgen"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/10/221749.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 0
+            },
+            {
+                "name": [
+                    "Jean's",
+                    "Mother"
+                ],
+                "img": "https://cdn.discordapp.com/attachments/942907758397763694/1217721435594686505/latest.png?ex=66050e76&is=65f29976&hm=1c53cd9f8ac51c83df2eb44cb77b7202b3d2465ca42a0affe7c2cf6eaf0e0986&",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Tom",
+                    "Ksaver"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/15/437406.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 8
+            },
+            {
+                "name": [
+                    "Kitz",
+                    "Woermann"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/5/206475.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 1
+            },
+            {
+                "name": [
+                    "Alma",
+                    "Reiss"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/14/360458.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Lobov"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/12/436247.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 10
+            },
+            {
+                "name": [
+                    "Erwin",
+                    "Smith"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/3/206431.jpg?s=515083eb48b5d464a3a28a469fce15ab",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 25170
+            },
+            {
+                "name": [
+                    "Bertolt",
+                    "Hoover"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/2/206409.jpg?s=6fc7c8bc5d283ea2919ffe504a4ed47b",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 694
+            },
+            {
+                "name": [
+                    "Arthur",
+                    "Braus"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/5/326958.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 8
+            },
+            {
+                "name": [
+                    "Falco",
+                    "Grice"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/12/431391.jpg?s=55d07760adc65f5aecd01379c380f862",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 495
+            },
+            {
+                "name": [
+                    "Theo",
+                    "Magath"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/5/434577.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 32
+            },
+            {
+                "name": [
+                    "Mr",
+                    "Leonhart"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/13/478139.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Grice"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/8/385091.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 0
+            },
+            {
+                "name": [
+                    "Franz",
+                    "Kefka"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/6/206435.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Dirk",
+                    "Reiss"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/12/464868.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 0
+            },
+            {
+                "name": [
+                    "Dieter"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/11/221751.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 3
+            },
+            {
+                "name": [
+                    "Pieck's",
+                    "Father"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/16/530671.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 0
+            },
+            {
+                "name": [
+                    "Moblit",
+                    "Berner"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/8/215963.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 63
+            },
+            {
+                "name": [
+                    "Marlene"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/6/370147.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Nile",
+                    "Dok"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/3/213233.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 6
+            },
+            {
+                "name": [
+                    "Gunther",
+                    "Schultz"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/15/215957.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Mr",
+                    "Leonhart"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/13/478139.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Porco",
+                    "Galliard"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/15/431179.jpg?s=dd9fadb9ba21dfcbd0d5f35871700875",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 172
+            },
+            {
+                "name": [
+                    "Theo",
+                    "Magath"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/5/434577.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 32
+            },
+            {
+                "name": [
+                    "Willy",
+                    "Tybur"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/16/429891.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 18
+            },
+            {
+                "name": [
+                    "Ramzi"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/5/480959.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Gunther",
+                    "Schultz"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/15/215957.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Ian",
+                    "Dietrich"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/7/206457.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 1
+            },
+            {
+                "name": [
+                    "Grisha's",
+                    "Father"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/2/385130.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 1
+            },
+            {
+                "name": [
+                    "Daz"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/16/206363.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 5
+            },
+            {
+                "name": [
+                    "Karl",
+                    "Fritz"
+                ],
+                "img": "https://cdn.discordapp.com/attachments/942907758397763694/1217718022953898045/latest.png?ex=66050b48&is=65f29648&hm=e1d01d9bf3d1e1f20c4e57fd0052eaa4eab0cb712d3c107f619e57fc57ece358&",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Willy",
+                    "Tybur"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/16/429891.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 18
+            },
+            {
+                "name": [
+                    "Rod",
+                    "Reiss"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/13/362895.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 6
+            },
+            {
+                "name": [
+                    "Revo"
+                ],
+                "img": "https://cdn.discordapp.com/attachments/942907758397763694/1217728366325796874/f3op35srz8o71.png?ex=660514ea&is=65f29fea&hm=3696737662a9d15d1c2498706481c836d4a89858da47b6e71980d611c4652fd8&",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Jean",
+                    "Kirstein"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/14/216893.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 1,
+                "favorites": 92594
+            },
+            {
+                "name": [
+                    "Nanaba"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/15/220851.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 75
+            },
+            {
+                "name": [
+                    "Keith",
+                    "Shadis"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/13/206467.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 64
+            },
+            {
+                "name": [
+                    "Historia",
+                    "Reiss"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/16/216967.jpg?s=d461ce7d6c93893f5bc0128c70f2ad3d",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 2503
+            },
+            {
+                "name": [
+                    "Lord",
+                    "Wald"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/15/206405.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Hannah",
+                    "Diament"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/13/206445.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 3
+            },
+            {
+                "name": [
+                    "Rod",
+                    "Reiss"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/13/362895.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 6
+            },
+            {
+                "name": [
+                    "Mirror Man"
+                ],
+                "img": "https://cdn.discordapp.com/attachments/942907758397763694/1216941747641385052/latest.png?ex=66023852&is=65efc352&hm=15c044c9bfa2129f1cce107b7a1b1bcfb1c412440d029643a3ec3d56f2fb9b99&",
+                "anime": "Shingeki no Kyojin (Lost girls)",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 1
+            },
+            {
+                "name": [
+                    "Marlo",
+                    "Freudenberg"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/15/220855.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 34
+            },
+            {
+                "name": [
+                    "Mikasa's",
+                    "Mother"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/15/206389.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 13
+            },
+            {
+                "name": [
+                    "Dot",
+                    "Pixis"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/16/206381.jpg?s=b1de85d7292e5242f1c76dfd1e4f264b",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 173
+            },
+            {
+                "name": [
+                    "Alma",
+                    "Reiss"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/14/360458.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Kitz",
+                    "Woermann"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/5/206475.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 1
+            },
+            {
+                "name": [
+                    "Kaya"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/16/466841.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 1
+            },
+            {
+                "name": [
+                    "Armin",
+                    "Arlert"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/8/220267.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 20521
             }
         ]
     },
     "723815216701505606": {
-        "points": 2,
+        "points": 36,
         "elo": 0,
         "team": [],
         "inventory": [
@@ -2573,11 +3177,22 @@
                 "animes_from": 3,
                 "mangas_from": 3,
                 "favorites": 25170
+            },
+            {
+                "name": [
+                    "Sasha",
+                    "Braus"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/6/251937.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 10391
             }
         ]
     },
     "578560238580531222": {
-        "points": 7,
+        "points": 64,
         "elo": -2,
         "team": [],
         "inventory": [
@@ -2634,7 +3249,334 @@
                 "animes_from": 3,
                 "mangas_from": 3,
                 "favorites": 653
+            },
+            {
+                "name": [
+                    "Hannes"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/2/206449.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 126
+            },
+            {
+                "name": [
+                    "Mirror Man"
+                ],
+                "img": "https://cdn.discordapp.com/attachments/942907758397763694/1216941747641385052/latest.png?ex=66023852&is=65efc352&hm=15c044c9bfa2129f1cce107b7a1b1bcfb1c412440d029643a3ec3d56f2fb9b99&",
+                "anime": "Shingeki no Kyojin (Lost girls)",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 1
+            },
+            {
+                "name": [
+                    "Kenny",
+                    "Ackermann"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/8/364347.jpg?s=d5fa0e9b2debc690723b58f025738ced",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 1,
+                "favorites": 452
+            },
+            {
+                "name": [
+                    "Tom",
+                    "Ksaver"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/15/437406.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 8
+            },
+            {
+                "name": [
+                    "Nifa"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/12/331917.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 9
+            },
+            {
+                "name": [
+                    "Sannes",
+                    "Djel"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/7/360457.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 0
+            },
+            {
+                "name": [
+                    "King",
+                    "Fritz"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/10/466763.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "General",
+                    "Calvi"
+                ],
+                "img": "https://cdn.discordapp.com/attachments/942907758397763694/1217720224258981920/1000.png?ex=66050d55&is=65f29855&hm=808d5f6cf9fa8e701727ddd1b43b633fd2e2cdfdf6ebda2acd9850966d3e650d&",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Theo",
+                    "Magath"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/5/434577.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 32
+            },
+            {
+                "name": [
+                    "Nicolo"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/4/435401.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 52
+            },
+            {
+                "name": [
+                    "Rose",
+                    "Fritz"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/4/469517.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 0
+            },
+            {
+                "name": [
+                    "Lara",
+                    "Tybur"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/2/429893.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 10
+            },
+            {
+                "name": [
+                    "Surma"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/13/449402.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Annie",
+                    "Leonhart"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/9/206357.jpg?s=fe710865b6f546ab4f85423f00c0d118",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 5965
+            },
+            {
+                "name": [
+                    "Karina",
+                    "Braun"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/16/467501.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 1
+            },
+            {
+                "name": [
+                    "Willy",
+                    "Tybur"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/16/429891.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 18
+            },
+            {
+                "name": [
+                    "Pieck",
+                    "Finger"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/4/425880.jpg?s=83ada2892940dc3a7c3b266c0f2315f9",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2281
+            },
+            {
+                "name": [
+                    "Armin",
+                    "Arlert"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/8/220267.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 20521
+            },
+            {
+                "name": [
+                    "Kenny",
+                    "Ackermann"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/8/364347.jpg?s=d5fa0e9b2debc690723b58f025738ced",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 1,
+                "favorites": 452
+            },
+            {
+                "name": [
+                    "Petra",
+                    "Ral"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/6/208639.jpg?s=cf45f06259f06a0a68842e97dbb70b04",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 466
+            },
+            {
+                "name": [
+                    "Colt",
+                    "Grice"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/16/425438.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 31
+            },
+            {
+                "name": [
+                    "Sina",
+                    "Fritz"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/16/469518.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 0
             }
         ]
+    },
+    "669706942356258827": {
+        "points": 11,
+        "elo": 0,
+        "team": [],
+        "inventory": [
+            {
+                "name": [
+                    "Zofia"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/11/435587.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 16
+            }
+        ]
+    },
+    "1102820791747358830": {
+        "points": 6,
+        "elo": 0,
+        "team": [],
+        "inventory": [
+            {
+                "name": [
+                    "Reiner",
+                    "Braun"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/16/206489.jpg?s=632f003dac270cc4476a977898a10689",
+                "anime": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 8547
+            },
+            {
+                "name": [
+                    "Helos"
+                ],
+                "img": "https://cdn.discordapp.com/attachments/942907758397763694/1217718581878329385/1360.png?ex=66050bce&is=65f296ce&hm=e85323dd1b61534e79f22aac5a46837815103a7148a068e5c135b2ebd59057a3&",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Yelena"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/13/433243.jpg?s=743712c4c4a54f38a353d435dda7c807",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 1,
+                "favorites": 510
+            },
+            {
+                "name": [
+                    "Pastor",
+                    "Nick"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/6/213227.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 4
+            }
+        ]
+    },
+    "606519237061640213": {
+        "points": 29,
+        "elo": 0,
+        "team": [],
+        "inventory": [
+            {
+                "name": [
+                    "Armin",
+                    "Arlert"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/8/220267.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 20521
+            }
+        ]
+    },
+    "541384996431069184": {
+        "points": 3,
+        "elo": 0,
+        "team": [],
+        "inventory": []
     }
 }

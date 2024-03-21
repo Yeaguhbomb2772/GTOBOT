@@ -183,28 +183,27 @@ class Commands(commands.Cog, name="commands"):
     @commands.command(name="stats", pass_context=True)
     async def handle_stats(self, ctx):
         e = discord.Embed(title=ctx.author.name + "'s Stats")
-        elo = get_elo(str(ctx.author.id))
+        guesspoints = get_points(str(ctx.author.id))
         rank_icon = ""
         rank = ""
-        if 0 <= elo < 25:
+        if 0 <= guesspoints < 25:
             rank = "Cadet"
             rank_icon = "https://cdn.discordapp.com/attachments/942907758397763694/1215130004451500062/360.png?ex=65fba101&is=65e92c01&hm=d95e1dc739374eadd70c3c899f2e20ff61c4d05f89c11b23c451da74f7616d2c&"
-        elif 25 <= elo < 35:
+        elif 25 <= guesspoints < 50:
             rank = "Soldier"
-            rank_icon = "https://cdn.discordapp.com/attachments/942907758397763694/1215136572463120434/ScoutMedalGreen.png?ex=65fba71f&is=65e9321f&hm=5d9672174f79ead8c5bfdae947606dee50158cfedb90f1da4353b62e18dd382b&"
-        elif 35 <= elo < 45:
+            rank_icon = "https://cdn.discordapp.com/attachments/942907758397763694/1220236823230419064/Untitled224_20240321000205.png?ex=660e3519&is=65fbc019&hm=91b31877921125aa5c793e6d9a3dfe404b0346037f538b62cde56afaff9f26a7&"
+        elif 50 <= guesspoints < 100:
             rank = "Elite Soldier"
-            rank_icon = "https://cdn.discordapp.com/attachments/942907758397763694/1215136572790542346/ScoutMedalRed.png?ex=65fba71f&is=65e9321f&hm=a452e026e879353e219cc9b5c9afb57bf89d63287303b3670abc49688b135fa6&"
-        elif 45 <= elo < 55:
+            rank_icon = "https://cdn.discordapp.com/attachments/942907758397763694/1220236824203628587/Untitled225_20240321000459.png?ex=660e3519&is=65fbc019&hm=c7f8d497191da8e236bc1838b44a18230ba833f32a9abd5e53056dc4badaf802&"
+        elif 100 <= guesspoints < 150:
             rank = "Squad Leader"
             rank_icon = "https://cdn.discordapp.com/attachments/942907758397763694/1215134330863624303/Untitled157_20240306210432.png?ex=65fba508&is=65e93008&hm=a158928a228cbb3a61874031d095cb92c44bf2a3efff3d96a07a42bbd13751be&"
-        elif 55 <= elo:
+        elif 150 <= guesspoints:
             rank = "Captain"
-            rank_icon = "https://cdn.discordapp.com/attachments/942907758397763694/1215134331408744478/IMG_2017.png?ex=65fba508&is=65e93008&hm=6c7355cd4c8031c59b7171a33226d134e9775f74a882fb234e51db0b2e3ee220&"
+            rank_icon = "https://cdn.discordapp.com/attachments/942907758397763694/1220236825248137266/Untitled224_20240320235730.png?ex=660e351a&is=65fbc01a&hm=b93ecdd26a1149efe4b80b7ec36792323a9a942f0d4f081e6636bd58b44f29fd&"
 
         e.set_thumbnail(url=rank_icon)
         e.add_field(name="Guess Points", value=get_points(str(ctx.author.id)))
-        e.add_field(name="ELO Points", value=elo, inline=False)
         e.add_field(name="Rank", value=rank, inline=False)
 
         await ctx.send(embed=e)
