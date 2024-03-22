@@ -681,14 +681,14 @@
         "answer": "Jean"
     },
     {
-        "question": "How many times can a titan shifter transform?",
+        "question": "How many times can Pieck transform into the cart titan?",
         "answers": [
             "Up to 3 times",
             "Up to 2 times",
             "Up to 5 times",
             "Infinite"
         ],
-        "answer": "Up to 3 times"
+        "answer": "Infinite"
     },
     {
         "question": "What was Historia's fake name when she was in the cadet corps?",
@@ -1540,7 +1540,7 @@
         "answer": "Armin"
     },
     {
-        "question": "Who said it? We're going to explore the outside world someday, right? Far beyond these walls, there's flaming water, land made of ice, and fields of san spread wide",
+        "question": "Who said it? We're going to explore the outside world someday, right? Far beyond these walls, there's flaming water, land made of ice, and fields of sand spread wide",
         "answers": [
             "Mikasa",
             "Isabel",
@@ -2371,5 +2371,15 @@
             "Ymir"
         ],
         "answer": "Mikasa"
+    },
+    {
+        "question": "Who said it? There is no such thing as truth in this world. That is our reality. Anyone can become a God or a Devil. All it takes is for people to believe in it.",
+        "answers": [
+            "Eren",
+            "Kruger",
+            "Zeke",
+            "Erwin"
+        ],
+        "answer": "Kruger"
     }
 ]
