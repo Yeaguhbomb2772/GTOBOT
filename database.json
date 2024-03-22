@@ -177,7 +177,7 @@
         ]
     },
     "938254555316117544": {
-        "points": 1160,
+        "points": 1178,
         "elo": 8,
         "team": [
             {
@@ -3148,11 +3148,33 @@
                 "animes_from": 3,
                 "mangas_from": 3,
                 "favorites": 20521
+            },
+            {
+                "name": [
+                    "Ilse",
+                    "Langnar"
+                ],
+                "img": "https://cdn.discordapp.com/attachments/942907758397763694/1217720807770423387/latest.png?ex=66050de0&is=65f298e0&hm=a575f49b0e29b2f207f14c4a85d66148be714cb1347dda478df864e086a56fe3&",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Oluo",
+                    "Bozado"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/5/215969.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 29
             }
         ]
     },
     "723815216701505606": {
-        "points": 41,
+        "points": 42,
         "elo": 0,
         "team": [],
         "inventory": [
