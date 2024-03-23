@@ -177,7 +177,7 @@
         ]
     },
     "938254555316117544": {
-        "points": 1178,
+        "points": 1194,
         "elo": 8,
         "team": [
             {
@@ -3170,11 +3170,54 @@
                 "animes_from": 3,
                 "mangas_from": 2,
                 "favorites": 29
+            },
+            {
+                "name": [
+                    "Ralph"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/2/360456.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Pastor",
+                    "Nick"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/6/213227.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 4
+            },
+            {
+                "name": [
+                    "Frieda",
+                    "Reiss"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/15/368841.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 26
+            },
+            {
+                "name": [
+                    "Annie",
+                    "Leonhart"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/9/206357.jpg?s=fe710865b6f546ab4f85423f00c0d118",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 5965
             }
         ]
     },
     "723815216701505606": {
-        "points": 42,
+        "points": 61,
         "elo": 0,
         "team": [],
         "inventory": [
@@ -3210,11 +3253,43 @@
                 "animes_from": 3,
                 "mangas_from": 3,
                 "favorites": 10391
+            },
+            {
+                "name": [
+                    "Gross"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/9/384701.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 5
+            },
+            {
+                "name": [
+                    "Ilse",
+                    "Langnar"
+                ],
+                "img": "https://cdn.discordapp.com/attachments/942907758397763694/1217720807770423387/latest.png?ex=66050de0&is=65f298e0&hm=a575f49b0e29b2f207f14c4a85d66148be714cb1347dda478df864e086a56fe3&",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Pieck",
+                    "Finger"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/4/425880.jpg?s=83ada2892940dc3a7c3b266c0f2315f9",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2281
             }
         ]
     },
     "578560238580531222": {
-        "points": 66,
+        "points": 83,
         "elo": -2,
         "team": [],
         "inventory": [
@@ -3600,5 +3675,144 @@
         "elo": 0,
         "team": [],
         "inventory": []
+    },
+    "567118314870931458": {
+        "points": 13,
+        "elo": 0,
+        "team": [],
+        "inventory": []
+    },
+    "1144746029393129573": {
+        "points": 3,
+        "elo": 0,
+        "team": [],
+        "inventory": []
+    },
+    "940736174652268556": {
+        "points": 15,
+        "elo": 0,
+        "team": [],
+        "inventory": [
+            {
+                "name": [
+                    "Marco",
+                    "Bodt"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/7/208125.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 420
+            },
+            {
+                "name": [
+                    "Mina",
+                    "Carolina"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/5/204093.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 14
+            },
+            {
+                "name": [
+                    "Porco",
+                    "Galliard"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/15/431179.jpg?s=dd9fadb9ba21dfcbd0d5f35871700875",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 172
+            },
+            {
+                "name": [
+                    "Isabel",
+                    "Magnolia"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/5/440868.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 91
+            },
+            {
+                "name": [
+                    "Carla",
+                    "Yeager"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/4/206411.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 60
+            },
+            {
+                "name": [
+                    "Levi",
+                    "Ackermann"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/2/241413.jpg?s=6c06f3392bfc3a1d3bc7cf72e7f73d77",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 3,
+                "favorites": 135960
+            },
+            {
+                "name": [
+                    "Gabi's",
+                    "Mother"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/9/476653.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 0
+            },
+            {
+                "name": [
+                    "Gabi's",
+                    "Father"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/12/465925.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 0
+            },
+            {
+                "name": [
+                    "Rod",
+                    "Reiss"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/13/362895.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 6
+            },
+            {
+                "name": [
+                    "King",
+                    "Fritz"
+                ],
+                "img": "https://cdn.myanimelist.net/images/characters/10/466763.jpg",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 2,
+                "favorites": 2
+            },
+            {
+                "name": [
+                    "Yelena"
+                ],
+                "img": "https://cdn.myanimelist.net/r/100x156/images/characters/13/433243.jpg?s=743712c4c4a54f38a353d435dda7c807",
+                "anime": "Shingeki no Kyojin",
+                "animes_from": 3,
+                "mangas_from": 1,
+                "favorites": 510
+            }
+        ]
     }
 }
